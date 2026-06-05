@@ -1,6 +1,7 @@
 .venv/
 .uv-cache/
 tmp/
+.claude/
 
 __pycache__/
 *.pyc
